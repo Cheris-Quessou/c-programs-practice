@@ -1,3 +1,5 @@
+// C++ Program to Calculate Sum of Natural Numbers
+
 #include <iostream>
 using namespace std;
 
